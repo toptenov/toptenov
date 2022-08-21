@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toptenov
-- 👀 I’m interested Python programming
+- 👀 I’m interested in Python programming
 - 📫 How to reach me: Telegram @toptenov
 
 <!---
